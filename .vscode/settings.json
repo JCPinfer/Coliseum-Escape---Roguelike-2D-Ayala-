@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Coliseum-Escape---Roguelike-2D-Ayala-.slnx"
+    "dotnet.defaultSolution": "Roguelike-2D-Francisco-Ayala-P_JC.slnx"
 }
